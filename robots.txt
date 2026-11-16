@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /docs/
+Disallow: /submission/
+
+# Replace with the deployed domain before publishing.
+Sitemap: https://hazineren.github.io/ionia-selcuk/sitemap.xml

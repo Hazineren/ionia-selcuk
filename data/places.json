@@ -1,0 +1,69 @@
+{
+  "region": "Selçuk District",
+  "province": "İzmir",
+  "country": "Türkiye",
+  "lauLevel": "LAU 1 (ilçe / district)",
+  "updated": "2026-10-10",
+  "items": [
+    {
+      "id": "ephesus",
+      "name": "Ancient City of Ephesus",
+      "type": "ancient",
+      "area": "West of Selçuk centre",
+      "summary": "A Roman port city whose processional way leads past the Library of Celsus, Hadrian’s Temple and the terrace houses.",
+      "geo": { "lat": 37.9394, "lon": 27.3403 },
+      "image": { "src": "assets/img/ephesus-celsus", "width": 1200, "height": 800, "alt": "The two-storey marble façade of the Library of Celsus at Ephesus", "credit": "Emre D. / Wikimedia Commons · CC BY-SA 4.0" },
+      "source": { "label": "UNESCO site record", "url": "https://whc.unesco.org/en/list/1018/" }
+    },
+    {
+      "id": "artemision",
+      "name": "Temple of Artemis (Artemision)",
+      "type": "ancient",
+      "area": "Selçuk centre",
+      "summary": "A single re-erected column marks one of the ancient world’s great sanctuaries, once counted among the Seven Wonders.",
+      "geo": { "lat": 37.9497, "lon": 27.3639 },
+      "image": { "src": "assets/img/artemision", "width": 1200, "height": 800, "alt": "A lone re-erected column standing in the marshy field of the Artemision", "credit": "Roy Egloff / Wikimedia Commons · CC BY-SA 4.0" },
+      "source": { "label": "UNESCO site record", "url": "https://whc.unesco.org/en/list/1018/" }
+    },
+    {
+      "id": "ayasuluk",
+      "name": "Ayasuluk Hill & Basilica of St John",
+      "type": "faith",
+      "area": "Selçuk centre",
+      "summary": "Remains of a great early Christian basilica sit below the medieval fortress that overlooks today’s town.",
+      "geo": { "lat": 37.9531, "lon": 27.3677 },
+      "image": { "src": "assets/img/st-john-basilica", "width": 1200, "height": 800, "alt": "Columns and brick walls of the Basilica of St John on Ayasuluk Hill", "credit": "Giorgio Galeotti / Wikimedia Commons · CC BY-SA 4.0" },
+      "source": { "label": "UNESCO site record", "url": "https://whc.unesco.org/en/list/1018/" }
+    },
+    {
+      "id": "isa-bey",
+      "name": "İsa Bey Mosque",
+      "type": "faith",
+      "area": "Selçuk centre",
+      "summary": "A fourteenth-century mosque at the foot of Ayasuluk Hill, marking the arrival of Turkish principalities in the valley.",
+      "geo": { "lat": 37.9520, "lon": 27.3660 },
+      "image": { "src": "assets/img/isa-bey-mosque", "width": 1200, "height": 799, "alt": "Stone façade and minaret of the İsa Bey Mosque in Selçuk", "credit": "Giorgio Galeotti / Wikimedia Commons · CC BY-SA 4.0" },
+      "source": { "label": "UNESCO site record", "url": "https://whc.unesco.org/en/list/1018/" }
+    },
+    {
+      "id": "museum",
+      "name": "Ephesus Museum",
+      "type": "museum",
+      "area": "Selçuk centre",
+      "summary": "Finds from Ephesus and the Artemision, including statues of Ephesian Artemis, shown in themed halls in the town centre.",
+      "geo": { "lat": 37.9473, "lon": 27.3678 },
+      "image": { "src": "assets/img/artemis-museum", "width": 1200, "height": 1600, "alt": "Marble statue of Ephesian Artemis displayed in the Ephesus Museum", "credit": "Furkan Akkurt / Wikimedia Commons · CC BY-SA 4.0" },
+      "source": { "label": "Türkiye Museums portal", "url": "https://muze.gov.tr/" }
+    },
+    {
+      "id": "sirince",
+      "name": "Şirince village",
+      "type": "village",
+      "area": "Hills east of Selçuk",
+      "summary": "A hillside neighbourhood of stone houses, fruit wines and olive groves, named a Best Tourism Village by UN Tourism in 2023.",
+      "geo": { "lat": 37.9440, "lon": 27.4320 },
+      "image": { "src": "assets/img/sirince", "width": 1200, "height": 900, "alt": "Whitewashed houses with tiled roofs spread across a green hillside in Şirince", "credit": "Lastradadeisogni / Wikimedia Commons · CC BY-SA 4.0" },
+      "source": { "label": "UN Tourism Best Tourism Villages", "url": "https://www.untourism.int/tourism-villages/best-tourism-villages" }
+    }
+  ]
+}
